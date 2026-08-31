@@ -1,0 +1,15 @@
+{
+  "name": "fp_samples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "install-deps": "npm install --prefix frontend",
+    "build": "npm run build --prefix frontend",
+    "start": "npx serve -s frontend/dist -l $PORT"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
