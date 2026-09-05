@@ -25,7 +25,7 @@ const OrdersPage = () => {
     },
     {
       id: "ORD-2026-1086",
-      clientName: "Mishal Ltd",
+      clientName: "Mishal & Sons Co.",
       category: "Shirts (Button Down)",
       deadline: "Nov 24, 2026",
       targetUnits: 1600,
